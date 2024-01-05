@@ -23,6 +23,8 @@ Querying By Metadata
 
 Live-Sequence Searching (?)
 
+Searching For Mutations
+
 #### 3. Adding Data
 
 Read Mapping
