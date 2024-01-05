@@ -11,7 +11,9 @@ Current planned backend setup: Cloudflare workers or just `npm run dev` for loca
 
 ### Data Storage
 
-CRAM format: Highly compressed, lossless, reference-based, sequence data format. May have higher processing overhead for compression/decompression. 
+CRAM format: Highly compressed, lossless, reference-based, sequence data format. May have higher processing overhead for compression/decompression.
+
+For possibly an even more compressed form (possibly importing / exporting data), can look into: https://github.com/refresh-bio/agc.  
 
 ### Data Operations
 
