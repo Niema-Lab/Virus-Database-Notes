@@ -73,4 +73,4 @@ See Data Operations.
 
 ### Frontend Tech Stack
 
-Likely a web application, so Svelte / React. React if we want easier integration into something like Electron for a desktop app. 
+Svelte (likely). 
