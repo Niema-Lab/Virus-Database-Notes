@@ -5,7 +5,9 @@ Notes about a potential virus database
 
 ### Architecture 
 
-The backend server should be able to be standalone-installed, where potential users could setup a server of their own for their own local use, whether installing it on their own machine or via a Docker image. It should also be able to scale to user needs. NOTE: More research and a deeper dive is required. 
+The backend server should be able to be standalone-installed, where potential users could setup a server of their own for their own local use, whether installing it on their own machine or via a Docker image. It should also be able to scale to user needs. 
+
+Current planned backend setup: Cloudflare workers or just `npm run dev` for local environments, connected to Supabase (with a PostgreSQL database) and file storage on Cloudflare R2 (likely a local file system or some kind of mock S3 / R2 system for local environments). Look into libraries that help manage code complexity / abstract platform-specific syntax away. 
 
 ### Data Storage
 
