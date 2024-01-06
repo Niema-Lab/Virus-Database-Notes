@@ -53,7 +53,9 @@ Will likely initially use PostgreSQL because it is an industry standard, has a c
 
 ### 3. Graph Database (Neo4j)
 
-Potentially interesting article: https://medium.com/codex/turn-neo4j-into-a-genome-browser-e94c7311dfab
+https://medium.com/codex/turn-neo4j-into-a-genome-browser-e94c7311dfab
+https://medium.com/geekculture/analyzing-genomes-in-a-graph-database-27a45faa0ae8
+https://neo4j.com/blog/geneweaver-building-a-graph-to-map-variants-to-genes-using-neo4j-4-x-and-bulk-import/
 
 ### 4. Search Engine (Lucene, ElasticSearch)
 
