@@ -65,6 +65,8 @@ Possible speed up of finding sequences in large database.
 
 Possible speed up of finding similar sequences (as represented by vectors that point in the similar direction). Could be useful for variant calling speed up. 
 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5870668 (Look into DNA sequence embedding models to turn it into vectors). 
+
 ## Databases in Literature / in Use
 
 GeNemo: https://pubmed.ncbi.nlm.nih.gov/27098038/
